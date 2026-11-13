@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Noto+Serif+Devanagari:wght@400;600;700&family=Hind:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; font-synthesis: none; text-rendering: optimizeLegibility; }
+html { scroll-behavior: smooth; }
+body { @apply bg-warmwhite text-brown antialiased; font-family: 'DM Sans', sans-serif; }
+body, button, input, textarea, select { font-family: 'DM Sans', sans-serif; }
+h1,h2,h3,h4,.font-cinzel { font-family: 'Cinzel', serif; }
+.font-lora { font-family: 'Lora', serif; }
+.font-inter { font-family: 'DM Sans', sans-serif; }
+.font-hind { font-family: 'Hind', sans-serif; }
+.font-notoserif { font-family: 'Noto Serif Devanagari', serif; }
+::selection { background: #d9b77d; color: #241a15; }
+:focus-visible { outline: 3px solid #bd815b; outline-offset: 3px; }
+
+@layer components {
+  .container { @apply max-w-[1280px] mx-auto px-5 sm:px-7 lg:px-10; }
+  .btn-primary { @apply inline-flex items-center justify-center gap-2 bg-terracotta text-white px-6 py-3.5 rounded-full text-sm font-semibold tracking-wide shadow-lg shadow-terracotta/20 hover:bg-[#713b2b] hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-terracotta focus:ring-offset-2 transition-all disabled:opacity-50 disabled:pointer-events-none; }
+  .btn-secondary { @apply inline-flex items-center justify-center gap-2 border border-brown/25 bg-white/70 text-brown px-6 py-3.5 rounded-full text-sm font-semibold hover:border-terracotta hover:text-terracotta transition-all; }
+  .section-title { @apply font-cinzel text-brown text-3xl md:text-5xl leading-tight tracking-tight; }
+  .card { @apply bg-white border border-brown/10 rounded-2xl p-6 shadow-sm; }
+  .eyebrow { @apply inline-flex items-center gap-2 text-[11px] font-bold uppercase tracking-[.22em] text-terracotta; }
+  .field { @apply w-full rounded-xl border border-brown/15 bg-white px-4 py-3 text-brown placeholder:text-brown/35 outline-none transition focus:border-terracotta focus:ring-4 focus:ring-terracotta/10; }
+}
+
+.page-shell { min-height: 60vh; }
+.surface-pattern { background-image: radial-gradient(rgba(48,37,30,.055) .7px, transparent .7px); background-size: 13px 13px; }

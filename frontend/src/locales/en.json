@@ -1,0 +1,269 @@
+{
+  "brand": "Historyaddaa",
+  "tagline": "Every Street Has a Story.",
+  "hero": {
+    "headline": "Every Street Has a Story.",
+    "subhead": "Explore Jabalpur through guided heritage walks, local stories and meaningful encounters with the city’s past.",
+    "alt": "History Adda group heritage walk photo"
+  },
+  "intro": {
+    "title": "History is not only in books.",
+    "body1": "History is not only found in books and monuments. It lives in streets, buildings, traditions and the memories people carry.",
+    "body2": "History Adda brings these stories closer through guided heritage experiences in Jabalpur."
+  },
+  "featured": {
+    "title": "Featured Experiences",
+    "subhead": "Verified guided walks curated by History Adda.",
+    "readMore": "Learn more",
+    "draft": "DRAFT",
+    "draftNotice": "Walk details are draft until confirmed by the owner."
+  },
+  "why": {
+    "title": "Why History Adda",
+    "subhead": "A local guided experience, not a directory.",
+    "localStorytelling": "Local storytelling",
+    "localStorytellingBody": "Concrete details — a place, an object, a local memory, an architectural feature.",
+    "researched": "Researched context",
+    "researchedBody": "Verified sources, no invented history or unsupported superlatives.",
+    "privateGroup": "Private group flexibility",
+    "privateGroupBody": "Request a private walk for your family, friends, school, college, or organisation."
+  },
+  "how": {
+    "title": "How Booking Works",
+    "subhead": "Request-to-book — availability is confirmed manually.",
+    "choose": "Choose an experience",
+    "chooseHi": "अनुभव चुनें",
+    "request": "Request a date",
+    "requestHi": "तारीख का अनुरोध करें",
+    "confirm": "Receive confirmation",
+    "confirmHi": "पुष्टि प्राप्त करें",
+    "join": "Join the walk",
+    "joinHi": "वॉक में शामिल हों"
+  },
+  "gallery": {
+    "title": "Photo Story",
+    "subhead": "Real images from previous History Adda walks.",
+    "alt": "History Adda walk photo",
+    "photo": "Photo",
+    "viewAll": "View gallery",
+    "draftNotice": "Captions and dates to be confirmed by the owner."
+  },
+  "founder": {
+    "title": "Meet the Founder & Heritage Guide",
+    "alt": "Kanhaiya Chouksey, founder of Historyaddaa",
+    "body": "Kanhaiya Chouksey is a heritage walk organiser, storyteller and history enthusiast from Jabalpur, Madhya Pradesh. Through Historyaddaa, he works to make the city’s history, heritage and lesser-known stories accessible through engaging storytelling and guided heritage walks.",
+    "body2": "He has experience organising and conducting heritage walks across Jabalpur and is actively involved in historical research and history-related content. His academic interests include ancient Indian history, anthropology and museology. Historyaddaa began with the belief that people should know the stories of their own hometown; it later grew into walks so participants could experience heritage first-hand."
+  },
+  "instagram": {
+    "title": "Follow the Walk",
+    "body": "See recent walks and behind-the-scenes moments on Instagram.",
+    "follow": "Follow on Instagram"
+  },
+  "walks": {
+    "title": "Heritage Walks",
+    "draft": "",
+    "readMore": "Learn more",
+    "durationPlaceholder": "[OWNER TO PROVIDE: duration]",
+    "meetingPointPlaceholder": "[OWNER TO PROVIDE: meeting point]",
+    "languagePlaceholder": "[OWNER TO PROVIDE: languages offered]",
+    "groupSizePlaceholder": "[OWNER TO PROVIDE: group size]",
+    "pricePlaceholder": "[OWNER TO PROVIDE: pricing]",
+    "inclusionGuide": "Certified local guide",
+    "inclusionStories": "Researched storytelling",
+    "exclusionTransport": "Transport to meeting point",
+    "exclusionMeals": "Meals and refreshments",
+    "meta": {
+      "duration": "Duration",
+      "meetingPoint": "Meeting point",
+      "language": "Language",
+      "groupSize": "Group size",
+      "price": "Price / enquiry",
+      "distance": "Walking distance",
+      "endingPoint": "Ending point",
+      "schedule": "Schedule"
+    },
+    "story": {
+      "title": "The Story",
+      "body": "Discover {name} through guided heritage storytelling in Jabalpur."
+    },
+    "route": {
+      "title": "Route & Stops",
+      "body": "Route sequence and stops to be confirmed by the owner.",
+      "stop": "Stop {num} — [OWNER TO PROVIDE: verified stop name]"
+    },
+    "inclusions": {
+      "title": "Inclusions"
+    },
+    "exclusions": {
+      "title": "Exclusions"
+    },
+    "book": {
+      "title": "Book This Walk",
+      "body": "Request your preferred date and group size. Availability is confirmed manually.",
+      "cta": "Request to Book"
+    },
+    "draftNotice": "",
+    "highlights": {
+      "title": "Walk highlights"
+    },
+    "instructions": {
+      "title": "Participant instructions"
+    }
+  },
+  "filters": {
+    "all": "All walks",
+    "oldCity": "Old City",
+    "river": "River & Ghats",
+    "architecture": "Architecture",
+    "history": "Gond history",
+    "colonial": "Colonial Jabalpur"
+  },
+  "pages": {
+    "about": {
+      "title": "About History Adda",
+      "subhead": "The origin, mission, and approach behind Jabalpur’s guided heritage walks.",
+      "origin": {
+        "title": "Our Origin",
+        "body": "Historyaddaa began with a simple thought: people from every city have stories to tell about their hometown, and the people of Jabalpur should have those stories too. The initiative aims to make the city’s history, architecture, culture and forgotten stories accessible through storytelling, heritage walks and community participation.",
+        "bodyHi": "हिस्ट्री अड्डा गाइडेड वॉक और वास्तविक कहानियों के माध्यम से जबलपुर की धरोहर को करीब लाने के लिए शुरू किया गया था।"
+      },
+      "mission": {
+        "title": "Our Mission",
+        "item1": "Guided heritage experiences led by local storytellers.",
+        "item2": "Researched context with verified sources — no invented history.",
+        "item3": "Private group walks for families, friends, schools, colleges, and organisations."
+      },
+      "approach": {
+        "title": "Our Approach",
+        "research": {
+          "title": "Research-led storytelling",
+          "body": "Every story is rooted in a place, an object, or a verified historical detail."
+        },
+        "experience": {
+          "title": "Real guided experience",
+          "body": "People meet a guide, walk through real places, and experience Jabalpur’s heritage together."
+        }
+      },
+      "contact": {
+        "title": "Get in Touch",
+        "body": "Have questions about a walk or want to plan a private group experience?",
+        "cta": "Contact Us"
+      }
+    },
+    "gallery": {
+      "title": "Photo Gallery",
+      "subhead": "Real images from previous History Adda walks.",
+      "empty": "No gallery images available yet.",
+      "draftNotice": "Captions and dates to be confirmed by the owner.",
+      "view": "View",
+      "lightboxLabel": "Image lightbox",
+      "close": "Close",
+      "captionPending": "Caption pending owner confirmation"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subhead": "Reach History Adda for walk enquiries and private bookings.",
+      "channels": {
+        "title": "Contact Channels",
+        "whatsapp": "WhatsApp",
+        "whatsappNote": "Prefer WhatsApp? Message us directly.",
+        "email": "Email",
+        "instagram": "Instagram"
+      },
+      "form": {
+        "title": "Send a Message",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "namePlaceholder": "Your name",
+        "emailPlaceholder": "you@example.com",
+        "messagePlaceholder": "How can we help?",
+        "submit": "Send Message",
+        "note": "General contact form — booking enquiries use the Book a Walk page."
+      }
+    },
+    "location": {
+      "title": "Location",
+      "body": "Historyaddaa operates from designated meeting points for each walk. There is no permanent public office; participants meet at the location shared for their booked walk."
+    },
+    "backToWalks": "Back to walks"
+  },
+  "nav": {
+    "home": "Home",
+    "walks": "Heritage Walks",
+    "about": "About",
+    "gallery": "Gallery",
+    "book": "Book a Walk",
+    "contact": "Contact"
+  },
+  "cta": {
+    "book": "Book a Walk",
+    "explore": "Explore Heritage Walks",
+    "private": "Plan a Private Walk"
+  },
+  "lang": {
+    "en": "EN",
+    "hi": "हिन्दी",
+    "label": "Language"
+  },
+  "footer": {
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "instagram": "Instagram",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "copyright": "Historyaddaa. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong.",
+    "back": "Back"
+  },
+  "booking": {
+    "title": "Book a Heritage Walk",
+    "subhead": "Request your preferred date and we will confirm availability manually.",
+    "fields": {
+      "walk": "Walk",
+      "walkPlaceholder": "Select a walk",
+      "date": "Preferred Date",
+      "participants": "Participants",
+      "name": "Full Name",
+      "phone": "Mobile Number",
+      "language": "Preferred Language",
+      "languages": {
+        "en": "English",
+        "hi": "Hindi",
+        "either": "Either"
+      },
+      "groupType": "Group Type",
+      "groupTypePlaceholder": "Select group type",
+      "requirements": "Special Requirements",
+      "consent": {
+        "label": "I consent to History Adda contacting me about this booking.",
+        "required": "Consent is required."
+      }
+    },
+    "submit": {
+      "loading": "Submitting…",
+      "label": "Request Booking"
+    },
+    "submitError": "Failed to submit booking. Please try again.",
+    "success": {
+      "title": "Request Received",
+      "body": "Thank you for your booking enquiry. We will confirm availability and details shortly.",
+      "reference": "Reference Number",
+      "pending": "Your enquiry is pending confirmation from our team.",
+      "whatsapp": "Follow up on WhatsApp",
+      "back": "Back to walks"
+    },
+    "after": {
+      "title": "What happens next?",
+      "step1": "We review your request and check guide availability.",
+      "step2": "You receive a confirmation with final price and meeting point.",
+      "step3": "Meet your guide and enjoy the walk.",
+      "whatsapp": "Or message us directly on WhatsApp:"
+    }
+  },
+  "contact": {}
+}
